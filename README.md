@@ -164,7 +164,10 @@
 <br>
 
 📫 Reach me: 
-<br /><br />
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lilia-paula-neiva)
+
+<a href="https://www.linkedin.com/in/lilia-paula-neiva" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin" alt="LINKEDIN">
+</a>
+
 
 
