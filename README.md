@@ -10,7 +10,7 @@
 <br>
 <br>
 
-
+<!--
 ## 💻 Tech Stack:
 <div>
     <img
@@ -157,6 +157,8 @@
       alt="trello logo"
     />     
 </div>
+
+-->
 
 <br>
 <br>
